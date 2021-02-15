@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69930137464",
+    "project_id": "dbsiskamling",
+    "storage_bucket": "dbsiskamling.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69930137464:android:f16d19445eb1b00e4b7a8d",
+        "android_client_info": {
+          "package_name": "com.appsiskamling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69930137464-lee6smbat5lrhgfi30lcs0obafdpsign.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTBJO0EEng8aWEwpe7oDZl8s3Orw0I160"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69930137464-lee6smbat5lrhgfi30lcs0obafdpsign.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
